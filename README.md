@@ -64,7 +64,7 @@ SIOS-C
   - The latest three versions of ATAK-Civ can be found at:
       [tak.gov](tak.gov) (free account creation required)
     
-  - Alternative Download:
+  - Alternative download:
     Some devices may be able to install the latest version of
     ATAK-Civ from the Google Play Store
     
@@ -83,6 +83,10 @@ SIOS-C
 
   - SmarTak inForce can be found in the Products category on the
     [VK Integrated Systems Website](www.vkintsys.com)
+    
+  - Alternative download:
+    Release and developer versions of the SmarTak inForce APKs can be found on
+    the SmarTak inForce TAK Plugin Public Github repository
     
   - Download the release for your version of ATAK-Civ either
     directly from your mobile device or from a computer
