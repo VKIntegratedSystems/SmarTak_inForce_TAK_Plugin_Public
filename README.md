@@ -56,7 +56,7 @@ SIOS-C
 
 1. Visit [VK Integrated Systems Website](https://www.vkintsys.com/)
 
-  - View our compatibility matrix to see what versions of ATAK
+  - View our [compatibility matrix](#compatibility) to see what versions of ATAK
     and SmarTak inForce will work best with your device.
 
 2. Install ATAK
