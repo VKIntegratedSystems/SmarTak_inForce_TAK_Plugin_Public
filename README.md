@@ -136,7 +136,7 @@ Confirm that Bluetooth is enabled on your device. Make sure the SIOS device is p
       
 ### ATAK and SmarTak inForce version compatibility
    
-Reference the compatibility matrix listed [above](compatibility)
+Reference the compatibility matrix listed [above](#compatibility)
         
 ### Alternative operating systems
    
