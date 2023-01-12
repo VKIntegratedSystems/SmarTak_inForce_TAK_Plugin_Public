@@ -15,7 +15,7 @@ paired devices with the press of a button.
 After successfully connecting to your device, you will be able
 to view the data on the map in real-time. For more information,
 visit us at the 
-  [VK Integrated Systems Website](www.vkintsys.com)
+  [VK Integrated Systems Website](https://www.vkintsys.com/)
 
 ---
 
@@ -33,7 +33,7 @@ Releases for ATAK Version(s):
 
 ## POINT OF CONTACTS
 
-* [VK Integrated Systems Website](www.vkintsys.com)
+* [VK Integrated Systems Website](https://www.vkintsys.com/)
 * [support@vkintsys.com](support@vkintsys.com)
 
 ---
@@ -54,7 +54,7 @@ SIOS-C
 
 ## Installation Procedure:
 
-1. Visit [VK Integrated Systems Website](www.vkintsys.com)
+1. Visit [VK Integrated Systems Website](https://www.vkintsys.com/)
 
   - View our compatibility matrix to see what versions of ATAK
     and SmarTak inForce will work best with your device.
@@ -62,7 +62,7 @@ SIOS-C
 2. Install ATAK
 
   - The latest three versions of ATAK-Civ can be found at:
-      [tak.gov](tak.gov) (free account creation required)
+      [tak.gov](https://tak.gov/) (free account creation required)
     
   - Alternative download:
     Some devices may be able to install the latest version of
@@ -70,7 +70,7 @@ SIOS-C
     
   - If different versions of the ATAK are needed but not 
     available, please visit:
-      [TAK Support](https://tak.gov/help_requests/new) (free account required)
+      [TAK Support](https://tak.gov/help_requests/new/) (free account required)
 
   - ATAK APK file can be downloaded on a computer and 
     transferred to a phone via USB if needed
@@ -82,7 +82,7 @@ SIOS-C
 3. Download and Install SmarTak inForce
 
   - SmarTak inForce can be found in the Products category on the
-    [VK Integrated Systems Website](www.vkintsys.com)
+    [VK Integrated Systems Website](https://www.vkintsys.com/)
     
   - Alternative download:
     Release and developer versions of the SmarTak inForce APKs can be found on
@@ -124,7 +124,7 @@ SIOS-C
 
 ### Why will ATAK not install on my device?
 
-If you have downloaded the Google Play Store version of ATAK, it is possible the application may be incompatible with the hardware on your device. This version of ATAK is a stripped down variant meant to comply with file size limitations of the Google Play Store. A likely fix would be to download the ATAK-Civ APK available at: [tak.gov](tak.gov) (free account creation required)
+If you have downloaded the Google Play Store version of ATAK, it is possible the application may be incompatible with the hardware on your device. This version of ATAK is a stripped down variant meant to comply with file size limitations of the Google Play Store. A likely fix would be to download the ATAK-Civ APK available at: [tak.gov](https://tak.gov/) (free account creation required)
         
 ### Why will SmarTak inForce not install on my device?
 
@@ -141,6 +141,6 @@ Reference the compatibility matrix listed [above](compatibility)
 ### Alternative operating systems
    
 ATAK and SmarTak inForce will run on variations of the Android Operating System (such as Graphene OS). ATAK and SmarTak inForce are not compatible with iOS (Apple) or any other non-Android OS. There is a form of TAK, iTAK, that will run on iOS devices, but functionality for the usage of plugins has not yet been added. For more information on 
-iTAK, visit: [tak.gov](tak.gov)
+iTAK, visit: [tak.gov](https://tak.gov/)
 
 ---
