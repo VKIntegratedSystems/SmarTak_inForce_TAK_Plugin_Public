@@ -34,7 +34,7 @@ Releases for ATAK Version(s):
 ## POINT OF CONTACTS
 
 * [VK Integrated Systems Website](https://www.vkintsys.com/)
-* [support@vkintsys.com](support@vkintsys.com)
+* [support@vkintsys.com](mailto:support@vkintsys.com)
 
 ---
 
@@ -111,7 +111,7 @@ SIOS-C
       occur during the installation process that cannot be 
       resolved through the installation procedure or FAQ (read 
       below), please contact
-        [VK Integrated Systems Support](support@vkintsys.com)
+        [VK Integrated Systems Support](mailto:support@vkintsys.com)
 ---
 
 ## Frequently Asked Questions (FAQ)
