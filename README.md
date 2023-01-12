@@ -66,7 +66,7 @@ SIOS-C
     
   - Alternative download:
     Some devices may be able to install the latest version of
-    ATAK-Civ from the Google Play Store
+    [ATAK-Civ from the Google Play Store](https://play.google.com/store/apps/details?id=com.atakmap.app.civ)
     
   - If different versions of the ATAK are needed but not 
     available, please visit:
