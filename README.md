@@ -25,9 +25,12 @@ Releases for ATAK Version(s):
 
 | SmarTak inForce  | ATAK  | Android OS     |
 | ---------------- | ----- | -------------- |
-| 1.7+	           | [4.7.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.7.2.1-release) | 10, 11, 12, 13 |
-| 1.6+	           | [4.6.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.6.0.1-release) | 10, 11, 12     |
-| 1.5+	           | [4.5.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.5.3.1-release) | 10, 11, 12     |
+| 1.7.2.2+         | [4.7.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.7.2.2-release) | 8, 9, 10, 11, 12, 13 |
+| 1.7 - 1.7.2.1    | [4.7.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.7.2.1-release) | 10, 11, 12, 13       |
+| 1.6.0.2+         | [4.6.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.6.0.2-release) | 8, 9, 10, 11, 12     |
+| 1.6 - 1.6.0.1    | [4.6.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.6.0.1-release) | 10, 11, 12           |
+| 1.5.3.2+ 	   | [4.5.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.5.3.2-release) | 8, 9, 10, 11, 12     |
+| 1.5 - 1.5.3.1    | [4.5.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.5.3.1-release) | 10, 11, 12           |
 
 ---
 
@@ -40,7 +43,7 @@ Releases for ATAK Version(s):
 
 ## EQUIPMENT/SOFTWARE REQUIRED
 
-Android device with at least Android 10.0 (API level 29)
+Android device with at least Android 8.0 (API level 26)
 
 ATAK of a supported version
 
