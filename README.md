@@ -117,6 +117,52 @@ SIOS-C
         [VK Integrated Systems Support](mailto:support@vkintsys.com)
 ---
 
+## SIOS Device Powering and Connection Procedure:
+
+1. Accessing the power button
+
+  - If installed, remove the end cap from the rear portion of
+    the SIOS device.
+
+2. Powering on the device
+
+  - Hold down the power button
+
+    - A light should come on. Continue holding until the light
+      brightens slightly, then release the power button
+
+    - If no light ever appears, you may need to charge your
+      SIOS device with the supplied charging cable
+      
+3. Device Initialization
+
+  - Once on, the device will initialize
+
+  - The device will go through a series of LED blinks of red,
+    green, and blue.
+
+  - Once only a green and blue light are blinking sporadically,
+    the device is initialized.
+    
+4. Connecting to Your SIOS
+
+  - Make sure Bluetooth is enabled on your End User Device(EUD)
+
+  - Open ATAK, and then start the SmarTak inForce plugin
+    from the ATAk menu
+
+  - If you did not already pair your EUD with your SIOS device
+    from the EUD's default Bluetooth menu, you may do so on the
+    Discover Devices tab of the SmarTak inForce plugin.
+
+    - When you select the SIOS device from the device list, it
+      will pair, connect, and then return to the main plugin tab.
+
+  - If your device has been paired to your SIOS alread, you may
+    connect to your SIOS by selecting it from the device list on
+    the Paired Devices tab.
+---
+
 ## Frequently Asked Questions (FAQ)
 
 - [Why will ATAK not install on my device?](#why-will-atak-not-install-on-my-device)
