@@ -35,12 +35,15 @@ Releases for ATAK Version(s):
 | 1.5 - 1.5.3.1    | [4.5.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.5.3.1-release) | 10, 11, 12                    | Deprecated with 1.5.3.2 release |
 
 ---
-## APK DIRECT DOWNLOAD LINKS
+### APK DIRECT DOWNLOAD LINKS
 
 | Latest inForce Version | ATAK Version |
+| ---------------------- | ------------ |
 | [1.9.0.3](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.9.0.3-release/SmarTak.inForce-1.9.0.3-release.apk) | 4.9.0 |
 | [1.8.0.3](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.8.0.3-release/SmarTak.inForce-1.8.0.3-release.apk) | 4.8.1 |
 | [1.7.3.4](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.7.3.4-release/SmarTak.inForce-1.7.3.4-release.apk) | 4.7.0 |
+
+---
 
 ## POINT OF CONTACTS
 
