@@ -29,8 +29,8 @@ Releases for ATAK Version(s):
 | 1.9.0.0+         | [4.9.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.9.1.7-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Supported |
 | 1.8.0.0+         | [4.8.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.8.1.7-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Supported |
 | 1.7.2.2+         | [4.7.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.7.4.5-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Deprecated with 1.10.0.0 release |
-| 1.6.0.2+         | [4.6.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/blob/main/4.6.1/Release/SmarTak_inForce_TAK_Plugin-1.6.1.3-release.apk) | 5, 6, 7, 8, 9, 10, 11, 12     | Deprecated with 1.9.0.0 release |
-| 1.5.3.2+ 	       | [4.5.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/blob/main/4.5.1/Release/SmarTak_inForce_TAK_Plugin-1.5.4.3-release.apk) | 5, 6, 7, 8, 9, 10, 11, 12     | Deprecated with 1.8.0.0 release |
+| 1.6.0.2+         | [4.6.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.6.1.1-release) | 5, 6, 7, 8, 9, 10, 11, 12     | Deprecated with 1.9.0.0 release |
+| 1.5.3.2+ 	       | [4.5.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.5.4.1-release) | 5, 6, 7, 8, 9, 10, 11, 12     | Deprecated with 1.8.0.0 release |
 
 ---
 ### APK DIRECT DOWNLOAD LINKS
