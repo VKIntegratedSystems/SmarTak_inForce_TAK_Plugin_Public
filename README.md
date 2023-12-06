@@ -25,9 +25,9 @@ Releases for ATAK Version(s):
 
 | SmarTak inForce  | ATAK  | Android OS     | Note(s) |
 | ---------------- | ----- | -------------- | ------- |
-| 1.10.0.0+        | [4.10.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.10.0.5-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Current LTS |
-| 1.9.0.0+         | [4.9.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.9.1.8-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Supported |
-| 1.8.0.0+         | [4.8.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.8.1.8-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Supported |
+| 1.10.0.0+        | [4.10.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.10.0.6-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Current LTS |
+| 1.9.0.0+         | [4.9.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.9.1.9-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Supported |
+| 1.8.0.0+         | [4.8.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.8.1.9-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Supported |
 | 1.7.2.2+         | [4.7.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.7.4.5-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Deprecated with 1.10.0.0 release |
 | 1.6.0.2+         | [4.6.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.6.1.1-release) | 5, 6, 7, 8, 9, 10, 11, 12     | Deprecated with 1.9.0.0 release |
 | 1.5.3.2+ 	       | [4.5.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.5.4.1-release) | 5, 6, 7, 8, 9, 10, 11, 12     | Deprecated with 1.8.0.0 release |
@@ -37,9 +37,9 @@ Releases for ATAK Version(s):
 
 | Latest inForce Version | ATAK Version |
 | ---------------------- | ------------ |
-| [1.10.0.5](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.10.0.5-release/SmarTak.inForce-1.10.0.5-release.apk) | 4.10.0 |
-| [1.9.1.8](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.9.1.8-release/SmarTak.inForce-1.9.1.8-release.apk) | 4.9.0 |
-| [1.8.1.8](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.8.1.8-release/SmarTak.inForce-1.8.1.8-release.apk) | 4.8.1 |
+| [1.10.0.6](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.10.0.6-release/SmarTak.inForce-1.10.0.6-release.apk) | 4.10.0 |
+| [1.9.1.9](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.9.1.9-release/SmarTak.inForce-1.9.1.9-release.apk) | 4.9.0 |
+| [1.8.1.9](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.8.1.9-release/SmarTak.inForce-1.8.1.9-release.apk) | 4.8.1 |
 
 ---
 
@@ -124,6 +124,8 @@ SIOS-C
 
 ## SIOS Device Powering and Connection Procedure:
 
+For 11B Devices:
+
 1. Accessing the power button
 
   - If installed, remove the end cap from the rear portion of
@@ -154,7 +156,11 @@ SIOS-C
   - Make sure Bluetooth is enabled on your End User Device(EUD)
 
   - Open ATAK, and then start the SmarTak inForce plugin
-    from the ATAk menu
+    from the ATAK menu
+
+  - On the Plugin Settings tab, under the Bluetooth section,
+    ensure that the hardware connection selection slider is set
+    to 11B
 
   - If you did not already pair your EUD with your SIOS device
     from the EUD's default Bluetooth menu, you may do so on the
@@ -166,6 +172,50 @@ SIOS-C
   - If your device has been paired to your SIOS alread, you may
     connect to your SIOS by selecting it from the device list on
     the Paired Devices tab.
+---
+
+For 11E Devices:
+
+1. Accessing the power button
+
+  - If installed, remove the end cap from the rear portion of
+    the SIOS device.
+
+2. Powering on the device
+
+  - Press the power button
+
+    - A green light should come on. Continue holding until the light
+      brightens slightly, then release the power button
+
+    - If no light ever appears, you may need to charge your
+      SIOS device with the supplied charging cable
+    
+3. Connecting to Your SIOS
+
+  - Make sure Bluetooth is enabled on your End User Device(EUD)
+
+  - Open ATAK, and then start the SmarTak inForce plugin
+    from the ATAk menu
+
+  - On the Plugin Settings tab, under the Bluetooth section,
+    ensure that the hardware connection selection slider is set
+    to 11B
+
+  - If you did not already pair your EUD with your SIOS device
+    from the EUD's default Bluetooth menu, you may do so on the
+    Discover Devices tab of the SmarTak inForce plugin.
+
+    - When you select the SIOS device from the device list, it
+      will pair, connect, and then return to the main plugin tab.
+
+  - If your device has been paired to your SIOS already, you may
+    connect to your SIOS by selecting it from the device list on
+    the Paired Devices tab.
+
+  - Once paired to your device, there should be a blue light
+    coming from the device as well as the green light indicating
+    the device is on.
 ---
 
 ## Frequently Asked Questions (FAQ)
