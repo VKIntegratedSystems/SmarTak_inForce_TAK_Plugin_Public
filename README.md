@@ -64,7 +64,6 @@ SmarTak inForce of a compatible version for your configuration
 
 SIOS-C
 
-
 ## Installation Procedure:
 
 1. Visit [VK Integrated Systems Website](https://www.vkintsys.com/)
@@ -74,12 +73,12 @@ SIOS-C
 
 2. Install ATAK
 
-  - The latest three versions of ATAK-Civ can be found at:
-      [tak.gov](https://tak.gov/) (free account creation required)
+  - Most devices are able to install the latest version of
+    [ATAK-Civ via TAK Stack](https://play.google.com/store/apps/details?id=com.takstack&pcampaignid=web_share)
     
   - Alternative download:
-    Some devices may be able to install the latest version of
-    [ATAK-Civ from the Google Play Store](https://play.google.com/store/apps/details?id=com.atakmap.app.civ)
+    The latest three versions of ATAK-Civ can be found at:
+      [tak.gov](https://tak.gov/) (free account creation required)
     
   - If different versions of the ATAK are needed but not 
     available, please visit:
