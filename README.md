@@ -25,9 +25,9 @@ Releases for ATAK Version(s):
 
 | SmarTak inForce  | ATAK  | Android OS     | Note(s) |
 | ---------------- | ----- | -------------- | ------- |
-| 1.10.0.7+        | [4.10.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.10.0.9-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 | Current LTS |
-| 2.1.0.0+        | [5.1.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v2.1.0.0-release) | 7, 8, 9, 10, 11, 12, 13, 14 | Supported |
-| 2.0.0.1+         | [5.0.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v2.0.0.2-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 | Supported |
+| 1.10.0.7+        | [4.10.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.10.1.1-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 | Current LTS |
+| 2.1.0.0+        | [5.1.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v2.1.0.1-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 | Supported |
+| 2.0.0.1+         | [5.0.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v2.0.1.1-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 | Supported |
 | 1.9.2.0+         | [4.9.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.9.2.2-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 | Deprecated with 2.1.0.0 release |
 | 1.10.0.6        | [4.10.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v1.10.0.6-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Deprecated with 1.10.0.7 release |
 | 2.0.0.0         | [5.0.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/tag/v2.0.0.0-release) | 5, 6, 7, 8, 9, 10, 11, 12, 13 | Deprecated with 2.0.0.1 release |
@@ -42,9 +42,9 @@ Releases for ATAK Version(s):
 
 | Latest inForce Version | ATAK Version |
 | ---------------------- | ------------ |
-| [1.10.0.9](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.10.0.9-release/SmarTak.inForce-1.10.0.9-release.apk) | 4.10.0 |
-| [2.0.0.2](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v2.0.0.2-release/SmarTak.inForce-2.0.0.2-release.apk) | 5.0.0 |
-| [2.1.0.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v2.1.0.0-release/SmarTak.inForce-2.1.0.0-release.apk) | 5.1.0 |
+| [1.10.1.1](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v1.10.1.1-release/SmarTak.inForce-1.10.1.1-release.apk) | 4.10.0 |
+| [2.0.0.2](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v2.0.1.1-release/SmarTak.inForce-2.0.1.1-release.apk) | 5.0.0 |
+| [2.1.0.0](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/releases/download/v2.1.0.1-release/SmarTak.inForce-2.1.0.1-release.apk) | 5.1.0 |
 
 ---
 
@@ -66,7 +66,7 @@ SmarTak inForce of a compatible version for your configuration
 
 ## EQUIPMENT SUPPORTED
 
-SIOS-C
+SIOS
 
 ## Installation Procedure:
 
@@ -96,8 +96,12 @@ SIOS-C
       on-screen prompts to begin installation
       
 3. Download and Install SmarTak inForce
+
+  - Most devices are able to install the latest version of
+    [SmarTak inForce via TAK Stack](https://play.google.com/store/apps/details?id=com.takstack&pcampaignid=web_share)
     
-  - Release and developer versions of the SmarTak inForce APKs can be found on
+  - Alternative Download:
+    Release and developer versions of the SmarTak inForce APKs can be found on
     the SmarTak inForce TAK Plugin Public Github repository
     
   - Download the release for your version of ATAK-Civ either
@@ -200,24 +204,21 @@ For 11E Devices:
   - Make sure Bluetooth is enabled on your End User Device(EUD)
 
   - Open ATAK, and then start the SmarTak inForce plugin
-    from the ATAk menu
+    from the ATAK menu
 
   - On the Plugin Settings tab, under the Bluetooth section,
     ensure that the hardware connection selection slider is set
-    to 11B
+    to 11B for SIOS-C11B devices or 11E for SIOS-C11Bv2,
+    SIOS-C11E, and SIOS-V devices
 
-  - If you did not already pair your EUD with your SIOS device
-    from the EUD's default Bluetooth menu, you may do so on the
-    Discover Devices tab of the SmarTak inForce plugin.
-
-    - When you select the SIOS device from the device list, it
-      will pair, connect, and then return to the main plugin tab.
+  - When you select the SIOS device from the device list, it
+    will connect and then return to the main plugin tab.
 
   - If your device has been paired to your SIOS already, you may
     connect to your SIOS by selecting it from the device list on
-    the Paired Devices tab.
+    the Paired Devices view.
 
-  - Once paired to your device, there should be a blue light
+  - Once connected to your device, there should be a blue light
     coming from the device as well as the green light indicating
     the device is on.
 ---
@@ -232,11 +233,11 @@ For 11E Devices:
 
 ### Why will ATAK not install on my device?
 
-If you have downloaded the Google Play Store version of ATAK, it is possible the application may be incompatible with the hardware on your device. This version of ATAK is a stripped down variant meant to comply with file size limitations of the Google Play Store. A likely fix would be to download the ATAK-Civ APK available at: [tak.gov](https://tak.gov/) (free account creation required)
+If you have downloaded the Google Play Store version of ATAK, it is possible the application may be incompatible with the hardware on your device. This version of ATAK is a stripped down variant meant to comply with file size limitations of the Google Play Store. A likely fix would be to download the ATAK-Civ APK available at: [ATAK-Civ via TAK Stack](https://play.google.com/store/apps/details?id=com.takstack&pcampaignid=web_share)
         
 ### Why will SmarTak inForce not install on my device?
 
-Confirm your versions of ATAK and SmarTak inForce are compatible. If your device claims SmarTak inForce is already installed, use your App explorer on your device to ensure SmarTak inForce is not currently on the device. Be sure to check all profiles on your device if you have more than one. If SmarTak inForce is show in your App explorer, uninstall and attempt to install again.   
+Confirm your versions of ATAK and SmarTak inForce are compatible. If your device claims SmarTak inForce is already installed, use your App explorer on your device to ensure SmarTak inForce is not currently on the device. Be sure to check all profiles on your device if you have more than one. If SmarTak inForce is shown in your App explorer, uninstall and attempt to install again.   
 
 ### Devices are not showing up to pair
    
@@ -248,7 +249,6 @@ Reference the compatibility matrix listed [above](#compatibility)
         
 ### Alternative operating systems
    
-ATAK and SmarTak inForce will run on variations of the Android Operating System (such as Graphene OS). ATAK and SmarTak inForce are not compatible with iOS (Apple) or any other non-Android OS. There is a form of TAK, iTAK, that will run on iOS devices, but functionality for the usage of plugins has not yet been added. For more information on 
-iTAK, visit: [tak.gov](https://tak.gov/)
+ATAK and SmarTak inForce will run on variations of the Android Operating System (such as Graphene OS). ATAK and SmarTak inForce are not compatible with iOS (Apple) or any other non-Android OS. There is a form of TAK, iTAK, that will run on iOS devices, but functionality for the usage of plugins has not yet been added. In an attempt to bridge this gap, [TAK Stack for iOS](https://apps.apple.com/us/app/tak-stack/id6471518626) has some of the functionality of the inForce plugin.
 
 ---
