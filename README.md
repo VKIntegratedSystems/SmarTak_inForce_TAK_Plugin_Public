@@ -16,6 +16,7 @@ After successfully connecting to your device, you will be able
 to view the data on the map in real-time. For more information,
 visit us at the 
   [VK Integrated Systems Website](https://www.vkintsys.com/)
+or view the [SmarTak inForce User Guide](https://github.com/VKIntegratedSystems/SmarTak_inForce_TAK_Plugin_Public/blob/main/VKIS_SmarTak_inForce_TAK_Plugin_User_Guide.pdf)
 
 ---
 
